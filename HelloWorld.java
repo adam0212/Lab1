@@ -1,4 +1,4 @@
-++/**
+/**
  * This is my first java app.   It prints out Hello
  * World and my name to the console.
  * @author Adam Shaheen, adamhshaheen@gmail.com
